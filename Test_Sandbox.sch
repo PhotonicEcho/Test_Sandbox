@@ -24,4 +24,5 @@ F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/da
 	1    6400 3700
 	1    0    0    -1  
 $EndComp
+NoConn ~ 7000 5100
 $EndSCHEMATC
